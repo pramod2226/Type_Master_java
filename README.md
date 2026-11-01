@@ -1,4 +1,4 @@
-#Project Overview
+###Project Overview
 ##Type_Master_java
 is a simple, interactive, console-based typing practice application
 developed using Core JAVA. The main objective of the project is to help
