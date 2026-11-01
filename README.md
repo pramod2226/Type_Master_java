@@ -1,5 +1,4 @@
-###Project Overview
-##Type_Master_java
+## Type_Master_java
 is a simple, interactive, console-based typing practice application
 developed using Core JAVA. The main objective of the project is to help
 users practice typing, improve their typing skills through an interactive
@@ -17,7 +16,7 @@ message.
 This project demonstrates fundamental Java programing concept such as file handling,
 user input, conditional statement, string comparison, and console-based application development.
 
-##key Features
+## key Features
 1. Paragraph display
 2. user input
 3. Text Comparison
@@ -26,7 +25,7 @@ user input, conditional statement, string comparison, and console-based applicat
 6. Console-Based interface
 
 
-##Java concept used
+## Java concept used
 1.Classes and Methods
 2.File Handling
 3.Scanner class
@@ -37,7 +36,7 @@ user input, conditional statement, string comparison, and console-based applicat
 8.Exception Handling
 
 
-##Future Enhancements
+## Future Enhancements
 1. Typing speed(WPM)
 2. Accuracy Percentage
 3. Timer
